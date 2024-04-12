@@ -35,7 +35,7 @@ Climate change is a pressing global issue, necessitating a rapid shift to renewa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/renewable-energy-optimization.git
+   git clone https://github.com/Billymcokello24/renewable-energy-optimization.git
    cd renewable-energy-optimization
    ```
 
@@ -71,7 +71,3 @@ The system's performance is evaluated using various metrics, including reduction
 ## Contributing
 
 Contributions are welcome! For bug reports or contributions, please open an issue or create a pull request following the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
